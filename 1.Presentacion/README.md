@@ -6,4 +6,4 @@ Les comparto la presentación de nuestro proyecto, donde podrán ver los objetiv
 
 # Link de la Presentacion
 
-link: https://docs.google.com/presentation/d/1fJAplKSJ7NqUyvCXxRwpEFxBiNjIPOKG/edit?usp=drive_link&ouid=101495805088102823015&rtpof=true&sd=true
+- [Presentacion FERROELECTRICOS PYP ](//docs.google.com/presentation/d/1fJAplKSJ7NqUyvCXxRwpEFxBiNjIPOKG/edit?usp=drive_link&ouid=101495805088102823015&rtpof=true&sd=true)
